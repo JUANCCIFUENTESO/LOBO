@@ -1,0 +1,24 @@
+body{
+    background:url(../img/fondo.jpg);
+background-size:cover;
+background-position: center;
+color: white;
+font-family: 'Pathway Gothic One', sans-serif;
+}
+html{height: 100%;}
+.main{
+    text-align:center;
+    margin-top: 25%;
+    text-shadow: 0PX 4PX 3PX rgba(9, 9, 31,4),0 8PX 13PX grey,
+    0PX 10PX 23PX goldenrod ;
+    
+}
+h1{
+    font-size: 5em;
+    font-weight: 700;
+}
+hr{
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0, 0.8);
+}
